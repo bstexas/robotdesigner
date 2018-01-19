@@ -6,14 +6,8 @@
         <mxCell id="2" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="420" y="190" width="100" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;exitX=0.5;exitY=1;" edge="1" parent="1" source="3">
-            <mxGeometry relative="1" as="geometry">
-                <mxPoint x="470" y="490" as="targetPoint"/>
-                <Array as="points"/>
-            </mxGeometry>
-        </mxCell>
         <mxCell id="3" value="Click {INPUT} Button" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="410" y="300" width="120" height="100" as="geometry"/>
+            <mxGeometry x="410" y="299" width="120" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="3">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -21,10 +15,10 @@
                 <mxPoint x="440" y="590" as="targetPoint"/>
             </mxGeometry>
         </mxCell>
-        <mxCell id="11" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;exitX=0.5;exitY=1;" edge="1" parent="1" source="3">
+        <mxCell id="11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="3" target="13">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
                 <mxPoint x="470" y="395" as="sourcePoint"/>
-                <mxPoint x="469.57142857142867" y="490.42857142857156" as="targetPoint"/>
+                <mxPoint x="300" y="430" as="targetPoint"/>
             </mxGeometry>
         </mxCell>
         <mxCell id="13" value="Get first item in menu" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
